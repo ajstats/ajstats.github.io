@@ -1,9 +1,9 @@
 ---
-title: Configu
+title: 경력기술서
 nav_order: 2
 ---
 
-# Configu
+# 경력기술서
 {: .no_toc }
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
