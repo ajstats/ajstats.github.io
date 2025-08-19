@@ -1,9 +1,10 @@
 ---
-title: Navigation
+#title: Navigation
+title: 지도학습
 nav_order: 5
 ---
 
-# Navigation
+# 지도학습
 
 The default page layout supports various navigation features:
 
