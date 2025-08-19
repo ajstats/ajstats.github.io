@@ -1,12 +1,12 @@
 ---
-title: 경력기술서
+title: 프로젝트경력
 nav_order: 2
 ---
 
-# 경력기술서
+# 프로젝트경력
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+참여한 프로젝트와 프로젝트 내 업무에 대해 기술하였습니다. 
 {: .fs-6 .fw-300 }
 
 ## Table of contents
