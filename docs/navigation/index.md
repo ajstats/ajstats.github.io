@@ -6,7 +6,7 @@ nav_order: 5
 
 # 지도학습
 
-The default page layout supports various navigation features:
+지도학습에 속하는 아래와 같은 예시들:
 
 * a **main navigation** panel, highlighting the currently selected page;
 * a list of **auxiliary** links, shown on all pages;

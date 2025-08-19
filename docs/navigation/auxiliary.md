@@ -1,12 +1,14 @@
 ---
-title: Auxiliary Links
-parent: Navigation
+#title: Auxiliary Links
+title: 주가예측모델(시계열)
+#parent: Navigation
+parent: 지도학습
 nav_order: 2
 ---
 
-# Auxiliary Links
+# 주가예측모델
 
-You can add a list of auxiliary links to your site, shown at the top right on all pages. You do this by including the `aux_links` [configuration option]({% link docs/configuration.md %}#aux-links) in your site's `_config.yml` file.
+주식 종가 고가 시가 를 가져와서, 크롤링해 가져와서 n all pages. You do this by including the `aux_links` [configuration option]({% link docs/configuration.md %}#aux-links) in your site's `_config.yml` file.
 
 ## Example Auxiliary Link
 {: .text-delta }
