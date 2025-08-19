@@ -1,9 +1,10 @@
 ---
-title: Migration and Upgrading
+title: 메뉴10
+#title: Migration and Upgrading
 layout: default
 ---
 
-# Migrating and Upgrading
+# 메뉴10
 
 Summary
 :   A site that uses `just-the-docs` (as a theme or as a remote theme) automatically
