@@ -16,8 +16,8 @@ permalink: /
 
 ---
 
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+{: .알림 }
+> 개인적인 포트폴리오 정리 공간입니다. 해당 페이지에 있는 정보는 모두 조아진 개인의 소유저작권을 가지므로 카피 또는 도용을 금지합니다. 
 
 Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
 
