@@ -1,12 +1,13 @@
 ---
-title: Layout
+#title: Layout
+title: 비지도학습
 layout: default
 nav_order: 4.5
 ---
 
-# Layout
+# 비지도학습
 
-You specify the layout for a page in its [front matter]. Just the Docs has a `default` layout with a sidebar, used for almost all pages in the theme docs, and a `minimal` layout that omits the sidebar.
+비지도학습은 다음의 You specify the layout for a page in its [front matter]. Just the Docs has a `default` layout with a sidebar, used for almost all pages in the theme docs, and a `minimal` layout that omits the sidebar.
 {: .fs-6 .fw-300 }
 
 ## The layout concept
