@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # 개인 포트폴리오 정리 공간입니다. 
-{: .fs-9 }
+{: .fs-8 }
 
 통계분석, 지도학습, 비지도학습, 시각화 카테고리별로 분석 기술을 정리하였습니다.
 {: .fs-6 .fw-300 }
@@ -25,7 +25,7 @@ Jekyll builds this Just the Docs theme docs website using the theme itself. Thes
 
 Browse the docs to learn more about how to use this theme.
 
-## Getting started
+## 한 눈에 파악하기 
 
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
 
