@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# 조아진/개인 포트폴리오 정리 공간입니다. 
+# 개인 포트폴리오 정리 공간입니다. 
 {: .fs-9 }
 
 통계분석, 지도학습, 비지도학습, 시각화 카테고리별로 분석 기술을 정리하였습니다.
