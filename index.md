@@ -12,7 +12,7 @@ permalink: /
 통계분석, 지도학습, 비지도학습, 시각화 카테고리별로 분석 기술을 정리하였습니다.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[한 눈에 파악하기](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
