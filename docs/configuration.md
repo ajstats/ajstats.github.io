@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Configu
 nav_order: 2
 ---
 
