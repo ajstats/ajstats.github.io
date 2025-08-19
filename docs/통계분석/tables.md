@@ -1,6 +1,8 @@
 ---
-title: Tables
-parent: UI Components
+#title: Tables
+title: 동일성검정
+parent: 통계분석
+#parent: UI Components
 nav_order: 4
 ---
 

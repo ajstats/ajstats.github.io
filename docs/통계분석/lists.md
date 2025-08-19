@@ -1,6 +1,8 @@
 ---
-title: Lists
-parent: UI Components
+#title: Lists
+title: 분산분석
+parent: 통계분석
+#parent: UI Components
 nav_order: 5
 ---
 

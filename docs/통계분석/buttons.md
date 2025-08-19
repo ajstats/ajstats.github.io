@@ -1,6 +1,8 @@
 ---
-title: Buttons
-parent: UI Components
+title: 교차분석
+#title: Buttons
+#parent: UI Components
+parent: 통계분석
 nav_order: 2
 ---
 

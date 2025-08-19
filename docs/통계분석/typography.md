@@ -1,6 +1,8 @@
 ---
-title: Typography
-parent: UI Components
+#title: Typography
+title: 상관분석
+#parent: UI Components
+parent: 통계분석
 nav_order: 1
 ---
 

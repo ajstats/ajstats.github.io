@@ -1,6 +1,8 @@
 ---
-title: Labels
-parent: UI Components
+#title: Labels
+title: 독립성검정
+#parent: UI Components
+parent: 통계분석
 nav_order: 3
 ---
 
